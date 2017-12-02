@@ -1,4 +1,4 @@
-#### Andrés Valencia Díaz - A00068012
+#### Carlos Ocampo - A00052216
 # Proyecto Kubernetes - Sistemas Distribuidos
 
 Proyecto de Sistemas Distribuidos para construir y desplegar una app sencilla de Python en Kubernetes. 
